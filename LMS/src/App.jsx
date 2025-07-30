@@ -4,6 +4,7 @@ import { useState } from 'react';
 import About from './About';
 import Contact from './Contact';
 import Wishlist from './Wishlist'; // Import the Wishlist component
+import BookList from './Booklist';
 import './App.css';
 
 import Topbar from './Topbar';
